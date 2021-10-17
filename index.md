@@ -7,23 +7,25 @@ layout: default
 
 ![Abrimos](https://lenazun.github.io/anarcoplanta/assets/img/Opening.JPG)
 
+
 ## Zines y Panfletos
 
 <a href="https://es.crimethinc.com/zines?lang=es">Archivo en Español de Crimethinc</a>
 
+<a href="https://es.crimethinc.com/tce/espanol">Para Cambiar Todo: Un llamamiento Anarquista</a>
 
-![Para Cambiar Todo: Un llamamiento Anarquista](https://es.crimethinc.com/tce/espanol)
+<a href="https://es.theanarchistlibrary.org/special/index">Biblioteca Anarquista en Español</a>
 
-![Biblioteca Anarquista en Español](https://es.theanarchistlibrary.org/special/index)
-
-![Zines del Colectivo Disonancia] (https://colectivodisonancia.net/zines/)
+<a href="https://colectivodisonancia.net/zines/">Zines del Colectivo Disonancia</a>
 
 
-## Afiches
 
-![Afiches de Crimethinc](https://es.crimethinc.com/posters) en varios idiomas
+## Afiches y Gráficos
 
-![Infografías de Colectivo Disonancia] (https://colectivodisonancia.net/infografias/)
+
+<a href="https://es.crimethinc.com/posters">Afiches de Crimethinc</a> en varios idiomas
+
+<a href="https://colectivodisonancia.net/infografias/">Infografías de Colectivo Disonancia</a>
 
 
 ## Plantas
@@ -32,16 +34,17 @@ layout: default
 
 ## Películas y Videos
 
-![Videos de Crimethinc](https://es.crimethinc.com/videos)
 
-## Libros
+<a href="https://es.crimethinc.com/videos">Videos de Crimethinc</a>
 
 
 ## Otros elaces
 
-![Más herramientas de Crimethinc en Español](https://es.crimethinc.com/tools)
+<a href="https://es.crimethinc.com/tools">Más herramientas de Crimethinc en Español</a>
+
 
 ## Cómo ponerse en contacto
+
 
 ## Sobre Sulá Batsú
 
