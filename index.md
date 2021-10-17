@@ -16,6 +16,8 @@ layout: default
 
 <a href="https://colectivodisonancia.net/zines/">Zines del Colectivo Disonancia</a>
 
+<a href="https://github.com/lenazun/anarcoplanta/raw/master/assets/files/La%20anarqui%CC%81a%20explicada%20a%20los%20nin%CC%83os%20en%20siglo%20XXI%20-%20Educacion%20antiautoritaria.pdf"> La Anarquía Explicada a los Niños del Siglo XXI - Educación Anti-autoritaria</a> [PDF]
+
 
 ## Afiches y Gráficos
 
