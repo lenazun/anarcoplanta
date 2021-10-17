@@ -4,7 +4,7 @@ Esta página es una lista de links a los materiales descargables que se pueden e
 
 ## Para contribuir
 
-Puede añadir más materiales al [índice](./index.html).
+Puede añadir más materiales al [índice](https://github.com/lenazun/anarcoplanta/blob/master/index.md).
 
 ## Sobre la tienda física
 
