@@ -17,7 +17,6 @@ layout: default
 <a href="https://colectivodisonancia.net/zines/">Zines del Colectivo Disonancia</a>
 
 
-
 ## Afiches y Gráficos
 
 
@@ -45,9 +44,9 @@ layout: default
 
 <a href="https://www.instagram.com/anarcoplanta/">Instagram de la tienda</a>
 
-Dirección en Google Maps
+<a href="https://goo.gl/maps/wpRiFJcmHVk1hT2CA">Dirección en Google Maps</a>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3929.9875722220454!2d-84.06413794989751!3d9.934991576841906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa0e37ee390c237%3A0x2cfec0592fac428!2sCasa%20Bats%C3%BA%20-%20Cooperativa%20Sul%C3%A1%20Bats%C3%BA%20R.L.!5e0!3m2!1sen!2scr!4v1634436251060!5m2!1sen!2scr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<a href="https://www.waze.com/en/live-map/directions/costa-rica/san-jose-province/san-jose/casa-batsu-cooperativa-sula-batsu-r.l.?place=ChIJN8KQ437joI8RKMT6kgXszwI&utm_campaign=waze_website&utm_medium=website_menu&utm_source=waze_website">Dirección en Waze</a>
 
 
 ## Sobre Sulá Batsú
