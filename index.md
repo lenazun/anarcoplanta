@@ -6,7 +6,7 @@ layout: default
 ![Abrimos](https://lenazun.github.io/anarcoplanta/assets/img/Opening.JPG)
 
 
-## Zines y Panfletos
+## Zines, Panfletos y Textos
 
 <a href="https://es.crimethinc.com/zines?lang=es">Archivo en Español de Crimethinc</a>
 
@@ -18,6 +18,9 @@ layout: default
 
 <a href="https://github.com/lenazun/anarcoplanta/raw/master/assets/files/La%20anarqui%CC%81a%20explicada%20a%20los%20nin%CC%83os%20en%20siglo%20XXI%20-%20Educacion%20antiautoritaria.pdf"> La Anarquía Explicada a los Niños del Siglo XXI - Educación Anti-autoritaria</a> [PDF]
 
+<a href="https://dimmons.net/wp-content/uploads/2016/05/maq_Trebor-Scholz_COOP_PreF.pdf">Cooperativismo de plataforma</a> [PDF]
+
+<a href="https://rosalux.org.br/wp-content/uploads/2021/06/Juntas-y-revueltas_V10.pdf">Juntas y Revueltas: explorando territorios de la economía feminista</a> [PDF]
 
 ## Afiches y Gráficos
 
