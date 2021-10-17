@@ -2,7 +2,7 @@
 
 ![Planta](https://lenazun.github.io/anarcoplanta/assets/img/logo_white_small.png)
 
-Esta página es una lista de links a los materiales descargables que se pueden encontrar en la tienda física. La idea es crear una lista de materiales anarquistas en Español. 
+<a href="https://www.anarcoplanta.org">Anarcoplanta.org</a> es una lista de links a los materiales descargables que se pueden encontrar en la tienda física. La idea es crear una lista de materiales anarquistas en Español. 
 
 ## Para contribuir
 
