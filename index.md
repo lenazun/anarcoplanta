@@ -22,6 +22,8 @@ layout: default
 
 <a href="https://rosalux.org.br/wp-content/uploads/2021/06/Juntas-y-revueltas_V10.pdf">Juntas y Revueltas: explorando territorios de la economía feminista</a> [PDF]
 
+<a href="https://www.uaem.mx/difusion-y-medios/publicaciones/clasicos-de-la-resistencia-civil/files/pensamiento_anarquista.pdf">El pensamiento anarquista - Antología</a> [PDF]
+
 ## Afiches y Gráficos
 
 
@@ -50,6 +52,8 @@ layout: default
 <a href="https://es.crimethinc.com/videos">Videos de Crimethinc</a>
 
 <a href="https://archive.org/details/libertarias_201903">Libertarias (1996)</a>
+
+<a href="https://vimeo.com/47751996">Educación Anarquista. Ni exámenes, ni premios, ni castigos</a>
 
 
 ## Otros elaces
