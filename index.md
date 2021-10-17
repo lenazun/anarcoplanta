@@ -45,7 +45,7 @@ layout: default
 <a href="https://es.crimethinc.com/videos">Videos de Crimethinc</a>
 
 
-## Otros elaces
+## Otros enlaces
 
 <a href="https://es.crimethinc.com/tools">Más herramientas de Crimethinc en Español</a>
 
