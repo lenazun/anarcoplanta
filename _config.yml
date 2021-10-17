@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Tienda de Plantas Anarquista
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: Una lista de materiales que se encuentran en la tienda
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
