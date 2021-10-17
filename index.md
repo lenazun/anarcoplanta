@@ -9,7 +9,8 @@ layout: default
 
 ## Zines y Panfletos
 
-![Archivo en Español de Crimethinc](https://es.crimethinc.com/zines?lang=es)
+<a href="https://es.crimethinc.com/zines?lang=es">Archivo en Español de Crimethinc</a>
+
 
 ![Para Cambiar Todo: Un llamamiento Anarquista](https://es.crimethinc.com/tce/espanol)
 
