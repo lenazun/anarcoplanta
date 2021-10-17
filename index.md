@@ -5,7 +5,7 @@ layout: default
 
 ## Gran Apertura (y cierre) de la Tienda de Plantas Anarquista
 
-![Abrimos](https://lenazun.github.io/anarcoplanta/assets/img/Opening.JPG | width=300)
+![Abrimos](https://lenazun.github.io/anarcoplanta/assets/img/Opening.JPG)
 
 ## Zines
 
