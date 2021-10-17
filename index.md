@@ -29,7 +29,7 @@ layout: default
 
 <a href="https://es.crimethinc.com/posters">Afiches de Crimethinc</a> en varios idiomas
 
-<a href="https://colectivodisonancia.net/infografias/">Infografías de Colectivo Disonancia</a>
+<a href="https://www.dropbox.com/sh/cazojla78a663qm/AABpZlIdC42POdYlYzLB2fmJa?dl=0">Afiches en las paredes de la tienda</a> (folder de Dropbox)
 
 
 ## Plantas
