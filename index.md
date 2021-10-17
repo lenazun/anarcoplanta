@@ -27,6 +27,16 @@ layout: default
 
 ## Plantas
 
+* Philodendron Brasil - Millonaria
+* Coleos
+* Hypoestes - Hojas pintadas
+* Calatea
+* Maranta
+* Marigold - Maravilla
+* Osteosperma
+* Kalanchoe 
+* Aloe Vera - Sábila
+* Menta
 
 
 ## Películas y Videos
