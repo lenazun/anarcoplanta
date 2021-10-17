@@ -46,6 +46,8 @@ layout: default
 
 <a href="https://es.crimethinc.com/videos">Videos de Crimethinc</a>
 
+<a href="https://archive.org/details/libertarias_201903">Libertarias (1996)</a>
+
 
 ## Otros elaces
 
