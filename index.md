@@ -34,7 +34,7 @@ layout: default
 
 ## Plantas
 
-* Philodendron Brasil - Millonaria
+* Philodendron Brasil 
 * Coleos
 * Hypoestes - Hojas pintadas
 * Calatea
@@ -44,6 +44,8 @@ layout: default
 * Kalanchoe 
 * Aloe Vera - Sábila
 * Menta
+* Portulacaria
+* Fittonia
 
 
 ## Películas y Videos
