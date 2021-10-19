@@ -28,6 +28,8 @@ layout: default
 
 <a href="http://zinelibrary.c4ss.org/">Zines de C4SS en Inglés</a>
 
+<a href="https://www.akpress.org/zines.html">Zines de AKPress en Inglés</a>
+
 ## Afiches y Gráficos
 
 
