@@ -52,8 +52,9 @@ layout: default
 * Kalanchoe 
 * Aloe Vera - Sábila
 * Menta
-* Portulacaria
+* Portulacaria - Verdolaga
 * Fittonia
+* Monstera deliciosa
 
 
 ## Películas y Videos
