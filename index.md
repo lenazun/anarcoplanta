@@ -44,55 +44,55 @@ layout: default
 
 * Philodendron Brasil - <a href="https://variegata.es/philodendron-brasil/" target="_blank">cuidados</a>
 
-<img src="https://github.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/philodendron.jpg" width="200">
+<img src="https://raw.githubusercontent.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/philodendron.jpg" width="200">
 
 * Coleo - <a href="https://www.joseeljardinero.com/coleo-cretona/" target="_blank">cuidados</a>
 
-<img src="https://github.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/coleo.jpg" width="200">
+<img src="https://raw.githubusercontent.com/lenazun/anarcoplanta/master/assets/img/plantas/coleo.jpg" width="200">
 
 * Hypoestes - Hojas pintadas - <a href="https://naturalezatropical.com/manual-cultivo-hypoestes/" target="_blank">cuidados</a>
 
-<img src="https://github.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/hypoestes.jpg" width="200">
+<img src="https://raw.githubusercontent.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/hypoestes.jpg" width="200">
 
 * Calatea - <a href="https://guiadejardin.com/calathea-cuidados-cultivo/" target="_blank">cuidados</a>
 
-<img src="https://github.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/calatea.jpg" width="200">
+<img src="https://raw.githubusercontent.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/calatea.jpg" width="200">
 
 * Maranta - <a href="https://www.floresyplantas.net/los-cuidados-de-la-maranta-tricolor/" target="_blank">cuidados</a>
 
-<img src="https://github.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/maranta.jpg" width="200">
+<img src="https://raw.githubusercontent.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/maranta.jpg" width="200">
 
 * Marigold - Maravilla - <a href="https://9plantas.info/guia/flores/545/marigold-cuidados-cultivos-y-nombres-comunes" target="_blank">cuidados</a>
 
-<img src="https://github.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/marigold.jpg" width="200">
+<img src="https://raw.githubusercontent.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/marigold.jpg" width="200">
 
 * Osteosperma - <a href="https://gt.monarkinsulation.com/11193-osteospermum-flower-varieties-and-varieties.html" target="_blank">cuidados</a>
 
-<img src="https://github.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/osteosperma.jpg" width="200">
+<img src="https://raw.githubusercontent.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/osteosperma.jpg" width="200">
 
 * Kalanchoe - <a href="https://www.hogarmania.com/jardineria/fichas/plantas/kalanchoe-14938.html" target="_blank">cuidados</a>
 
-<img src="https://github.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/kalanchoe.jpg" width="200">
+<img src="https://raw.githubusercontent.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/kalanchoe.jpg" width="200">
 
 * Aloe Vera - Sábila - <a href="https://blog.oxfamintermon.org/que-cuidados-precisa-el-aloe-vera-te-los-contamos/" target="_blank">cuidados</a>
 
-<img src="https://github.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/sabila.jpg" width="200">
+<img src="https://raw.githubusercontent.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/sabila.jpg" width="200">
 
 * Menta - <a href="https://www.ecologiaverde.com/cuidados-de-la-planta-de-menta-en-maceta-1276.html" target="_blank">cuidados</a>
 
-<img src="https://github.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/menta.jpg" width="200">
+<img src="https://raw.githubusercontent.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/menta.jpg" width="200">
 
 * Portulacaria - Verdolaga - <a href="https://elarbol.org/verdolaga/" target="_blank">cuidados</a>
 
-<img src="https://github.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/verdolaga.jpg" width="200">
+<img src="https://raw.githubusercontent.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/verdolaga.jpg" width="200">
 
 * Fitonia - <a href="https://www.hogarmania.com/jardineria/fichas/plantas/fitonia-fittonia-verschaffeltii-ficha-planta-35253.html" target="_blank">cuidados</a>
 
-<img src="https://github.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/fitonia.jpg" width="200">
+<img src="https://raw.githubusercontent.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/fitonia.jpg" width="200">
 
 * Monstera deliciosa - <a href="https://www.infojardineria.es/cuidados-de-la-monstera/" target="_blank">cuidados</a>
 
-<img src="https://github.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/monstera.jpg" width="200">
+<img src="https://raw.githubusercontent.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/monstera.jpg" width="200">
 
 
 ## Películas y Videos
