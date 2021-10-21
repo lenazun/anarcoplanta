@@ -42,7 +42,10 @@ layout: default
 
 ## Plantas
 
-* Philodendron Brasil 
+* Philodendron Brasil - <a href="https://variegata.es/philodendron-brasil/" target="_blank">cuidados</a>
+
+<img src="https://github.com/lenazun/anarcoplanta/blob/master/assets/img/plantas/philodendron.jpg" width="200">
+
 * Coleos
 * Hypoestes - Hojas pintadas
 * Calatea
