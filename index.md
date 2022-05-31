@@ -105,7 +105,7 @@ layout: default
 <a href="https://vimeo.com/47751996">Educación Anarquista. Ni exámenes, ni premios, ni castigos</a>
 
 
-## Otros elaces
+## Otros enlaces
 
 <a href="https://es.crimethinc.com/tools">Más herramientas de Crimethinc en Español</a>
 
