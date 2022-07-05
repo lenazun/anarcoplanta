@@ -6,6 +6,9 @@ Feria de plantas anarquista en San Francisco, CA!
 
 Anarchist plant fair, San Francisco, CA
 
+<img src="https://raw.githubusercontent.com/lenazun/anarcoplanta/master/assets/img/plantas/flyers.jpg" width="600">
+
+
 Sábado 9 de Julio 2022 desde las 2pm
 
 Saturday July 9th 2022 from 2pm
