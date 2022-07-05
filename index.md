@@ -2,8 +2,16 @@
 layout: default
 ---
 
+Feria de plantas anarquista en San Francisco, CA! 
+Anarchist plant fair, San Francisco, CA
 
-![Abrimos](https://lenazun.github.io/anarcoplanta/assets/img/Opening.JPG)
+Sábado 9 de Julio 2022 desde las 2pm
+Saturday July 9th 2022 from 2pm
+
+Noisebridge
+272 Capp Street
+https://www.noisebridge.net/wiki/Getting_Here
+
 
 
 ## Zines, Panfletos y Textos
